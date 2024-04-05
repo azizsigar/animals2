@@ -1,4 +1,4 @@
-[MENU](./README.md)
+[Main Menu](./README.md)
 # Lion
 
 ![leo](./img/lion.jpg)
